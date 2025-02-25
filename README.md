@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Rayyan Khan
 
-Welcome to my GitHub profile! I'm a **Computer Engineering student at Texas A&M University**, with a passion for building innovative solutions and exploring the intersection of **software engineering, cybersecurity, and blockchain technologies**. My work focuses on creating high-performance applications, leveraging cutting-edge technologies, and solving real-world problems.
+Welcome to my GitHub profile! I'm a **Computer Engineering student at Texas A&M University**, passionate about creating innovative solutions at the intersection of **software engineering, cybersecurity, and blockchain technologies**. I love tackling challenging problems, building efficient systems, and exploring cutting-edge technologies.
 
 ---
 
@@ -21,25 +21,29 @@ Welcome to my GitHub profile! I'm a **Computer Engineering student at Texas A&M 
 
 ## 📂 Featured Projects
 ### [Solana Copy Trading Program](#)
-A high-performance copy trading system leveraging Solana RPC methods:
-- 🚀 Achieved sub-second execution times with MEV protection and custom SPL token deployment.
-- ⚡ Reduced transaction latency by over 85% using parallel computing and mempool monitoring.
+A blockchain-based copy trading system designed to execute trades efficiently on the Solana network:
+- Built a high-performance system that leverages Solana RPC methods for fast transaction execution.
+- Implemented features like MEV protection and custom token deployment to enhance functionality.
+- Focused on improving transaction processing by optimizing system architecture.
 
 ### [Stock Analysis Tool](#)
-A GPU-accelerated Python application for real-time financial data analysis:
-- 📈 Achieved 85% faster data processing using CUDA parallel processing.
-- 🤖 Built an LSTM-based prediction model with a MAPE below 9% for accurate price forecasting.
+A Python-based application for analyzing financial data in real time:
+- Developed a GPU-accelerated solution using CUDA to process large datasets efficiently.
+- Integrated machine learning models to predict stock prices and provide actionable insights.
+- Designed the tool to combine technical analysis with sentiment analysis for better decision-making.
 
 ---
 
 ## 🔍 Research & Experience
 ### Undergraduate Research Assistant | Texas A&M University
-- Conducted vulnerability analysis across open-source projects using Python and SQL.
-- Automated real-time vulnerability tracking with GitHub API and Dependency-Track.
+- Conducted research on software vulnerabilities in open-source projects to identify key security trends.
+- Automated data collection and analysis processes to streamline vulnerability tracking.
+- Built tools to improve the efficiency of monitoring and managing vulnerabilities across repositories.
 
 ### Technical Operations Manager | UD Circuits
-- Developed an e-commerce platform with React and TypeScript.
-- Automated order tracking and integrated Stripe payment processing for seamless transactions.
+- Designed and maintained an e-commerce platform to handle inventory management and order processing.
+- Automated key business operations such as payment processing and order tracking.
+- Focused on creating scalable and user-friendly solutions for business operations.
 
 ---
 
